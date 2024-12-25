@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description":"221706389718",   
       "value":"",
     "required":true
       
@@ -116,12 +116,12 @@
     "OWNER_NAME":
     {
     
-    "desc": "Owner name",
+    "desc": "manzeel",
     "required": false,
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"BWM-XMD;;;H4sIAAAAAAAAA5VU25KiSBT8l3qVGbnIzYiOWBAaEbBVUMGNeSigwBIEhALFjv73DfoS3Q87s708VVRRebIy85xnUJS4QRbqwfQZVDXuIEHDkvQVAlOgtkmCakCBGBIIpoBVdrAK1oG3F81RMQ+70127MneZJx4fRYLUWvFdTu7qeqs8gBcKVG2Y4+gPgJj1dX1B0/jSi93ES8jBkWJftPxLRof5tZsJx6jnIlHwBsABEeIaF6leHdEZ1TC3UL+CuP4efd0+WfYcPVoX2pCXKp7s/IlyjTnf0EPkO8IjL1xqy2mrLf09+u1xcQ718hAfVhtt1NQrRzSeFtZWw4kdsbKXsfNlBKWZxDVv9BucFig2Y1QQTPpv6y5ooupx+OZ1xnrnLCK3VXRzebs5u3K/6GV3Ydr6WNM7IXe+R/wg2LzCy+ntkIisBytXY8VF7i077vS4t5bH7tCTPGuJrl6/El/VH1nJ/o/umRPq8BjNTtn6qdXdUlzsubxIzGTTNzta6JWMGd8fm7XpT74ZG3/cnDiczMX8vjQ6B9NVcOPK45aNe7OutsLN2/j3x42z1j/pQ9LWf2I5UaEbjfh0HASsuPMulpsKUdo6WzGfNdzkZJIqXVuu6XChx9ni6ATDgmRYGfeKu5qrgVmwrLn1Hg+O2gQn29yqGCvrh9cXZag3YzBlXihQoxQ3pIYEl8WwxzIyBWDcuSiqEXmVF6S0128WRXgUz6tHXtvfex3dwzBzSMCNVYkEMkqxWcdG6zwAClR1GaGmQfEcN6Ssewc1DUxRA6Z//6JAgW7kzbihHMdQIMF1Q7ZFW+UljD9c/TiEUVS2BXH7IpoNC1SDKf25jQjBRdoMOrYFrKMj7tDsCEkDpgnMG/RCgRh1OEIDHlD8tDrRV8lFTxfM7+BiL7ZiOlA+lsXbL7QshAwKuR8oFukfEz6Wf8gCy/1IIBuGIc0yojgBFMDvPTPc+a2F+2qWoblNxyeJuacrJbsGu/nGK+d++mrDm/aoRjGYkrpFFAhhlLWVV2ao+AOuX0u9HzAFcW/nidWkY1uTYns/EyaTL7hvnoLp8+ecmpXxgCeqe3YnygdAgfNrBPHwcpZlRFrgJFlkpClD/9X8vA5Cwqr6WSAy4L6LPtyIEYE4b8AUzCyN5e1G062ir8XGMBQnVWapAj5N+kj7e5osBQaRiRf7vchvkrkhm2FI+rrejUu9WV5bIz124lrPvODhX0DAFFQTWFs3+t6z94tVTMLt6PrUxirBnGmMuMlpFWe2KOnHRVr5pVPd2gvZrEdG5mkjzd3VV1Xl4qJSeG5vyz7H6PEJLzXlYaj2FpavxdguDhwh3t2EhBidozPWQbcu8+Cg79YzX5Ct0Sjn2e1mdL89ZfzyNM6sMDkpx20mmYE6KuVAf/I9vneZHe71ROsk52n23oevcyB/n7/4tUOe36OVYPQ6zgp4Rv9tzteU0y/UF4z3AfmbJKnBLDXO85mJd3k72vq3W+carBhdBCYRVFuL7GNphiNaXegseHn5RYEqhyQp6zOYAljEdYljQIEcNkT5bFQPn1FD4LkCU0bkeIaVOVmiwLlXqsolkHz0N1CGT79r4OUf8BJVLvsHAAA=",   
       "value":"",
      "required":true
   },
